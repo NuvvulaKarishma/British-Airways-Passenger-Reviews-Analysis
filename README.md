@@ -30,6 +30,11 @@ British-Airways-Passenger-Analysis/
 │
 ├── PowerBI/
 │   └── Dashboard.pbix
+[Dashboard 1](Dashboard_Screenshot1.png)
+ Dashboard 2
+[Dashboard 2](Dashboard_Screenshot2.png)
+Dashboard 3
+[Dashboard 3](Dashboard_Screenshot3.png)
 │
 ├── Report/
 │   └── Insights_Report.pdf
