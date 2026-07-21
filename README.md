@@ -29,7 +29,7 @@ British-Airways-Passenger-Analysis/
 │   └── British_Airways_Reviews.csv
 │
 ├── PowerBI/
-│   └── Dashboard.pbix
+│   └── Dashboard.pbixfile
 [Dashboard 1](Dashboard_Screenshot1.png)
  Dashboard 2
 [Dashboard 2](Dashboard_Screenshot2.png)
